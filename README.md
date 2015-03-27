@@ -1,5 +1,5 @@
 #List API seed
-
+[![Build Status](https://travis-ci.org/Django0505/ListApi.svg)](https://travis-ci.org/Django0505/ListApi)
 Linked lists are a very basic data structure that form the cornerstone of many
 data structures in common use on the Internet today. In this exercise, you
 will be filling out an existing API in order to get all the test cases to
@@ -34,6 +34,6 @@ in a ```List()``` object and work from there. Each function that you need to
 implement has been declared for you and the comments above each one should
 tell you what that function is supposed to do. We will also go through the API
 in class.
-[![Build Status](https://travis-ci.org/Django0505/ListApi.svg)](https://travis-ci.org/Django0505/ListApi)
+
 
 
