@@ -7,8 +7,3 @@ gulp.task('test', function() {
         .pipe(qunit());
 });
 
-gulp.task('go', function(){
-
-	console.log("oi!");
-
-});
